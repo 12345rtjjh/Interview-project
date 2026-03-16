@@ -315,6 +315,8 @@
 
 // debounc function
 function debounce(str){
-   console.log(str);
+debount()
+    console.log(str);
 }
 debounce("hello")
+
