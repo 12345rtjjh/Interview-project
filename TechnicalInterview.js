@@ -314,7 +314,7 @@
 // console.log(obj2)
 
 // debounc function
-function debounce(str){
-   console.log(str);
-}
-debounce("hello")
+// function debounce(str){
+//    console.log(str);
+// }
+// debounce("hello")
